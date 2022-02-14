@@ -1,0 +1,15 @@
+TN:
+SF:index.js
+FN:1,divideByTwo
+FNF:1
+FNH:1
+FNDA:2,divideByTwo
+DA:1,1
+DA:2,2
+DA:3,2
+LF:3
+LH:3
+BRDA:1,0,0,2
+BRF:1
+BRH:1
+end_of_record
